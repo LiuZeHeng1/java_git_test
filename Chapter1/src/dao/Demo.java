@@ -8,7 +8,7 @@ public class Demo {
     }
 
     public void test3(){
-        sout错误代码    
+        System.out.println("改正了");
     }
 
 }
