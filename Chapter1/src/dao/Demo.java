@@ -7,8 +7,6 @@ public class Demo {
         System.out.println("测试");
     }
 
-    public void test3(){
-        System.out.println("test测试");
-    }
+
 
 }
